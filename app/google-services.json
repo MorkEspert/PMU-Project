@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "412339336310",
+    "project_id": "pmu-projekt",
+    "storage_bucket": "pmu-projekt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412339336310:android:c1dd5dc19b66c8a3b01b57",
+        "android_client_info": {
+          "package_name": "com.projekt.pmu_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHTftd-ad6ScMdgFJmFdQmTwOsMY6dLu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

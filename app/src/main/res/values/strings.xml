@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PMU-Project</string>
+    <string name="unesi" />
+    <string name="unesi_oib_korisnika">Unesi OIB korisnika</string>
+    <string name="unesi_prezime_korisnika">Unesi prezime korisnika</string>
+    <string name="unesi_ime_korisnika">Unesi ime korisnika</string>
+    <string name="datum_ro_enja">Datum rođenja</string>
+    <string name="oib">OIB</string>
+    <string name="prezime">Prezime</string>
+    <string name="ime">Ime</string>
+    <string name="_1">1</string>
+    <string name="unesi_ime" />
+    <string name="unesi_lozinku" />
+    <string name="pass_kratak" />
+    <string name="uspjesna_prijava" />
+    <string name="neuspjesna_prijava" />
+    <string name="uspjesna_registracija" />
+    <string name="neuspjesna_registracija" />
+    <string name="uredi_profil">Uredi profil</string>
+    <string name="ra_un">Račun</string>
+    <string name="povijest_transakcija">Povijest transakcija</string>
+</resources>
